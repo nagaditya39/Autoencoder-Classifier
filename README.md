@@ -4,7 +4,10 @@ This repository contains a deep learning project for digit classification using 
 
 ## Open in Colab
 
-You can open and run the notebook in Google Colab by clicking the button `Open In Colab` below:
+You can open and run the notebook in Google Colab by clicking the button:
+        [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([link_to_your_colab_notebook](https://colab.research.google.com/github/nagaditya39/Autoencoder-Classifier/blob/main/2Stacked_AE.ipynb))
+
+
 
 ## Description
 
